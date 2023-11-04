@@ -1,0 +1,36 @@
+html 
+{
+    background-color: transparent;
+}
+.nav-active
+{
+    color: rgb(255, 255, 255);
+    font-size: 1.3rem;
+    border-radius: 1rem;
+}
+body
+{
+    background-color: black;
+    color: white;
+}
+p,h1,h2,h3,h4,h5,h6
+{
+    color: white;
+}
+nav
+{
+    color: rgb(255, 116, 192);
+    background-color: rgb(100, 62, 109);
+}
+i#btnTheme
+{
+    color: black;
+}
+footer
+{
+    color: rgb(177, 22, 22);
+    background-color: rgb(100, 62, 109);
+}
+/* Style for home */
+/* Style for page2 */
+/* Style for page3 */
